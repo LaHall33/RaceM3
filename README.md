@@ -24,4 +24,4 @@ Title: Race M3
 (1) Created data must be validated (events cannot be in the past, wall posts must include content, no duplicate data, etc)
     New races will be in the future only and will be validated
 (1) Application is publicly deployed
-    will be deployed on GitHub
+    will be deployed on GitHub 
